@@ -1,0 +1,2 @@
+Github: https://github.com/HoangTuan0611/Shopping-App_Flutter
+Video demo: https://youtu.be/BDXVzlCCC_A
