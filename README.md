@@ -4,9 +4,7 @@ Shopping App là một nơi mua sắm thật dễ dàng dành cho người tiêu
 
 https://youtu.be/BDXVzlCCC_A
 
-Nội dung
-
-1. Chức năng
+Chức năng
 
   1. Đăng nhập / đăng ký
   
@@ -21,8 +19,6 @@ Nội dung
   6. Category
   
   7. Profile Manager
-
----
 
 Thư viện và công nghệ
 
